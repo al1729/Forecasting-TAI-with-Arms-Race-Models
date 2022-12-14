@@ -1,2 +1,3 @@
-# forecasting-tai-with-arms-race-models
+# Forecasting TAI With Arms Race Models
  
+Forecasting the likelihood that Transformative Artificial Intelligence (TAI) will be developed has become increasingly pertinent for AI scholars. However, such models have attracted comparatively less attention from the applied mathematics community, leaving space for further modeling contributions. We extend Cotra’s TAI forecast with Hamblin’s model of arms races, allowing us to analyze the impact of competitive dynamics between the United States and China on the likelihood that TAI is developed. We also implement an extension of Hamblin’s model to handle tripolar (three-way) arms races and similarly integrate this into our model. We find that bipolar arms race dynamics will accelerate short-term AI development and that tripolar arms race dynamics will accelerate long-term AI development relative to baseline models.
